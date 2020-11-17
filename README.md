@@ -1,3 +1,3 @@
 # Devnet
 
-Devnet Basics - How to start with Devnet!
+Devnet Basics - Getting started with Network Automation!
